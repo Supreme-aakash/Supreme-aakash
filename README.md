@@ -20,6 +20,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer focused o
 
 ### 🌀 **Inspired by Doctor Strange**  
 Just like the Sorcerer Supreme bends the rules of reality, I believe in using code to bend the boundaries of what’s possible. I’m constantly learning and experimenting with new technologies to create magical solutions—one line of code at a time.  
+[![Doctor Strange GIF](https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif)](https://giphy.com/gifs/marvelstudios-marvel-cool-3o6Zt6TyciTYa975dK)
 
 ---
 
@@ -31,8 +32,14 @@ Just like the Sorcerer Supreme bends the rules of reality, I believe in using co
 ---
 
 ### 🔍 **Connect with me:**
-- 💼 [LinkedIn](https://www.linkedin.com/in/aakash-kumar-50a712279)
-- 📧 [Email](mailto:aakash@example.com)
+-  [![LinkedIn](https://img.shields.io/badge/0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kumar-50a712279)
+-  [![Gmail](htts://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash@example.com)
+-  [![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/being._.aakash_)
+
+
+---
+## 📈 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Supreme-aakash&show_icons=true&theme=radical)
 
 ---
 
