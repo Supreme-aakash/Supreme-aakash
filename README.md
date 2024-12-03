@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer focused o
 
 ### 🌀 **Inspired by Doctor Strange**  
 Just like the Sorcerer Supreme bends the rules of reality, I believe in using code to bend the boundaries of what’s possible. I’m constantly learning and experimenting with new technologies to create magical solutions—one line of code at a time.  
-[![Doctor Strange GIF](https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif)](https://giphy.com/gifs/marvelstudios-marvel-cool-3o6Zt6TyciTYa975dK)
+<img src="https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif" width="300" height="300">
 
 ---
 
