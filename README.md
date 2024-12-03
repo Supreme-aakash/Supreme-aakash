@@ -14,13 +14,15 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer focused o
   ![Python](https://img.shields.io/badge/-3776AB?style=flat-square&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-00599C?style=flat-square&logo=cplusplus&logoColor=white)  ![C](https://img.shields.io/badge/-00599C?style=flat-square&logo=c&logoColor=white)  ![Node.js](https://img.shields.io/badge/-339933?style=flat-square&logo=node.js&logoColor=white)
   
 - 🚀 **Technologies and Tools:**
-  [![Linux](https://img.shields.io/badge/-000000?style=flat&logo=linux&logoColor=white)](https://www.kernel.org/) [![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
+  
+    [![Linux](https://img.shields.io/badge/-000000?style=flat&logo=linux&logoColor=white)](https://www.kernel.org/) [![Git](https://img.shields.io/badge/-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)  
 
 ---
 
 ### 🌀 **Inspired by Doctor Strange**  
 Just like the Sorcerer Supreme bends the rules of reality, I believe in using code to bend the boundaries of what’s possible. I’m constantly learning and experimenting with new technologies to create magical solutions—one line of code at a time.  
-<img src="https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif" width="300" height="300">
+<img src="https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif" width="300" height="300">  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Supreme-aakash.Supreme-aakash)
+
 
 ---
 
@@ -32,9 +34,9 @@ Just like the Sorcerer Supreme bends the rules of reality, I believe in using co
 ---
 
 ### 🔍 **Connect with me:**
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kumar-50a712279)
-  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash@example.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/being._.aakash_)
+  [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kumar-50a712279)
+  [![Gmail](https://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash@example.com)
+  [![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/being._.aakash_)
 
 
 ---
