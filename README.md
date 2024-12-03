@@ -32,9 +32,9 @@ Just like the Sorcerer Supreme bends the rules of reality, I believe in using co
 ---
 
 ### 🔍 **Connect with me:**
--  [![LinkedIn](https://img.shields.io/badge/0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kumar-50a712279)
--  [![Gmail](htts://img.shields.io/badge/-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash@example.com)
--  [![Instagram](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/being._.aakash_)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aakash-kumar-50a712279)
+  [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aakash@example.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/being._.aakash_)
 
 
 ---
