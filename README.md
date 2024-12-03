@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm a passionate and dedicated developer focused o
 
 ### 🌀 **Inspired by Doctor Strange**  
 Just like the Sorcerer Supreme bends the rules of reality, I believe in using code to bend the boundaries of what’s possible. I’m constantly learning and experimenting with new technologies to create magical solutions—one line of code at a time.  
-<img src="https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif" width="300" height="300">  ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Supreme-aakash.Supreme-aakash)
+<img src="https://media.giphy.com/media/3o6Zt6TyciTYa975dK/giphy.gif" width="300" height="300">  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSupreme-aakash&count_bg=%230DA7E6&title_bg=%23E04F0F&icon=spotify.svg&icon_color=%2331F317&title=Profile+Visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 ---
