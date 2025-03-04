@@ -1,4 +1,4 @@
-# Hi, I'm Aaksh! 👨‍💻✨
+# Hi, I'm Aakash! 👨‍💻✨
 
 🚀 **Aspiring Full-Stack Developer | Cybersecurity Enthusiast | Marvel Fan**  
 Welcome to my GitHub profile! I'm a passionate and dedicated developer focused on creating efficient and innovative solutions. I’m always eager to learn new technologies and tackle challenging projects. My current goal is to build scalable, user-friendly web applications and secure systems.
